@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid b353b969-80a3-47b5-9168-22662b7ea3b4)
+  (uuid f55d8b0e-2549-4cb0-9c6d-21999d8db9a4)
 
   (paper "A4")
 
@@ -87,6 +87,14 @@
     )
   )
 
+
+  (text_box "Add V-Cut for outdoor sensor.\n"
+    (at 128.27 67.31 0) (size 35.56 10.16)
+    (stroke (width 0) (type default))
+    (fill (type color) (color 235 255 31 1))
+    (effects (font (size 2 2)) (justify left top))
+    (uuid a7777304-2689-4fa0-9486-8a6204f89ccf)
+  )
 
   (symbol (lib_id "AHT20:AHT20") (at 99.06 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
