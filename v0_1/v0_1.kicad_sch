@@ -599,6 +599,23 @@
     )
   )
 
+  (sheet (at 180.34 54.61) (size 31.75 5.08) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bff722e5-48c8-4de7-bf99-daef78c64d88)
+    (property "Sheetname" "MCP7831" (at 180.34 53.8984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Mico-USB-Charger.kicad_sch" (at 180.34 60.2746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "v0_1"
+        (path "/0bf090f4-b9b7-437f-9e6a-e818f47752ec" (page "5"))
+      )
+    )
+  )
+
   (sheet (at 180.34 66.04) (size 31.75 6.35) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

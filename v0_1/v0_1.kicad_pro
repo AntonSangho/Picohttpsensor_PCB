@@ -483,6 +483,10 @@
     [
       "18c6dee4-287a-4eaf-8042-b3dc1f680c7d",
       "AHT20"
+    ],
+    [
+      "bff722e5-48c8-4de7-bf99-daef78c64d88",
+      "MCP7831"
     ]
   ],
   "text_variables": {}
