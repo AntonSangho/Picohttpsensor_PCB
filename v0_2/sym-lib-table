@@ -11,4 +11,5 @@
   (lib (name "power_v+a0")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/symbol/power_v+a0.kicad_sym")(options "")(descr ""))
   (lib (name "PCF85063ATL_1_118")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/PCF85063ATL/PCF85063ATL_1_118.lib")(options "")(descr ""))
   (lib (name "S2B-PH-SM4-TB_LF__SN_")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/S2B-PH-SM4-TB(LF)(SN)/S2B-PH-SM4-TB_LF__SN_.lib")(options "")(descr ""))
+  (lib (name "BH1750FVI-TR")(type "Legacy")(uri "/Users/anton/Projects/KiCadLibraries/BH1750/BH1750FVI-TR.lib")(options "")(descr ""))
 )
