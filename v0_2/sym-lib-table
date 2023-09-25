@@ -7,4 +7,8 @@
   (lib (name "BH1745NUC-E2")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/BH1745NUC/BH1745NUC-E2.lib")(options "")(descr ""))
   (lib (name "DMG2301L-7")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/DMG2301L-7/DMG2301L-7.lib")(options "")(descr ""))
   (lib (name "DMN3731U-7")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/DMN3731U-7/DMN3731U-7.lib")(options "")(descr ""))
+  (lib (name "power_vsys")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/symbol/power_vsys.kicad_sym")(options "")(descr ""))
+  (lib (name "power_v+a0")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/symbol/power_v+a0.kicad_sym")(options "")(descr ""))
+  (lib (name "PCF85063ATL_1_118")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/PCF85063ATL/PCF85063ATL_1_118.lib")(options "")(descr ""))
+  (lib (name "S2B-PH-SM4-TB_LF__SN_")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/S2B-PH-SM4-TB(LF)(SN)/S2B-PH-SM4-TB_LF__SN_.lib")(options "")(descr ""))
 )

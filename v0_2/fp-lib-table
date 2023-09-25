@@ -7,4 +7,5 @@
   (lib (name "BH1745NUC")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/BH1745NUC")(options "")(descr ""))
   (lib (name "DMG2301L-7")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/DMG2301L-7")(options "")(descr ""))
   (lib (name "DMN3731U-7")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/DMN3731U-7")(options "")(descr ""))
+  (lib (name "S2B-PH-SM4-TB(LF)(SN)")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/S2B-PH-SM4-TB(LF)(SN)")(options "")(descr ""))
 )
