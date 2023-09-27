@@ -10,6 +10,7 @@
   (lib (name "PCF85063ATL_1_118")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/PCF85063ATL/PCF85063ATL_1_118.lib")(options "")(descr ""))
   (lib (name "S2B-PH-SM4-TB_LF__SN_")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/S2B-PH-SM4-TB(LF)(SN)/S2B-PH-SM4-TB_LF__SN_.lib")(options "")(descr ""))
   (lib (name "TS-1101-C-W")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/TS-1101-C-W/TS-1101-C-W.lib")(options "")(descr ""))
-  (lib (name "DMN3731U-13")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/DMN3731U-13/DMN3731U-13.lib")(options "")(descr ""))
   (lib (name "BH1750FVI-TR")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/BH1750/BH1750FVI-TR.lib")(options "")(descr ""))
+  (lib (name "Q13FC1350000200")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/Q13FC1350000200/Q13FC1350000200.lib")(options "")(descr ""))
+  (lib (name "DMN3731U-13")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/DMN3731U-13/DMN3731U-13.lib")(options "")(descr ""))
 )
