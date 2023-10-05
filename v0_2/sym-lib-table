@@ -13,4 +13,5 @@
   (lib (name "BH1750FVI-TR")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/BH1750/BH1750FVI-TR.lib")(options "")(descr ""))
   (lib (name "Q13FC1350000200")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/Q13FC1350000200/Q13FC1350000200.lib")(options "")(descr ""))
   (lib (name "DMN3731U-13")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/DMN3731U-13/DMN3731U-13.lib")(options "")(descr ""))
+  (lib (name "HYCW110-TF10-180B")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/HYCW110-TF10-180B/HYCW110-TF10-180B.lib")(options "")(descr ""))
 )
