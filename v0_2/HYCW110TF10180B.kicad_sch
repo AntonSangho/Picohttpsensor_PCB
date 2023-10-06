@@ -593,8 +593,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3fe50384-f54e-4bcf-8a18-5f9acca97db4)
   )
-  (label "CARDDET" (at 168.91 107.95 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (label "CARDDET" (at 195.58 105.41 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 44eecbbe-91d4-4b50-9581-89afe9e3dc58)
   )
   (label "CARDDET" (at 73.66 107.95 0) (fields_autoplaced)
@@ -716,7 +716,7 @@
     (property "Value" "HYCW110-TF10-180B" (at 140.97 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "HYCW110TF10180B" (at 156.21 82.55 0)
+    (property "Footprint" "HYCW110-TF10-180B:HYCW110TF10180B" (at 156.21 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2201241630_HOAUC-HYCW110-TF10-180B_C2962030.pdf" (at 156.21 85.09 0)
@@ -785,8 +785,8 @@
     (property "Manufacturer_Part_Number" "0603WAF4702T5E" (at 186.69 100.33 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8410de4c-4f7b-42ed-936f-ff2a6e8b632c))
-    (pin "2" (uuid c6cc5f64-7d38-4c53-a735-6e947d725b5b))
+    (pin "1" (uuid 9309f49c-e1e6-478d-a7f7-9002398c369e))
+    (pin "2" (uuid b2c90058-62a8-435d-b17d-104df65ff9e6))
     (instances
       (project "v0_2"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"

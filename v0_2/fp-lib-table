@@ -12,4 +12,7 @@
   (lib (name "Q13FC1350000200")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/Q13FC1350000200")(options "")(descr ""))
   (lib (name "DMN3731U-13")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/DMN3731U-13")(options "")(descr ""))
   (lib (name "HYCW110-TF10-180B")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/HYCW110-TF10-180B")(options "")(descr ""))
+  (lib (name "DMN3731U-7")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/DMN3731U-7")(options "")(descr ""))
+  (lib (name "SM04B-SRSS-TB")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/SM04B-SRSS-TB")(options "")(descr ""))
+  (lib (name "TL3305AF260QG")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/TL3305AF260QG")(options "")(descr ""))
 )
