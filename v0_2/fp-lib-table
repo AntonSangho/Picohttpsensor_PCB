@@ -15,4 +15,5 @@
   (lib (name "DMN3731U-7")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/DMN3731U-7")(options "")(descr ""))
   (lib (name "SM04B-SRSS-TB")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/SM04B-SRSS-TB")(options "")(descr ""))
   (lib (name "TL3305AF260QG")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/TL3305AF260QG")(options "")(descr ""))
+  (lib (name "Graphics")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/Graphics")(options "")(descr ""))
 )

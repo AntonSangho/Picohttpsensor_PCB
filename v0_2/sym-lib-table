@@ -17,4 +17,5 @@
   (lib (name "DMN3731U-7")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/DMN3731U-7/DMN3731U-7.lib")(options "")(descr ""))
   (lib (name "SM04B-SRSS-TB")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/SM04B-SRSS-TB/SM04B-SRSS-TB.lib")(options "")(descr ""))
   (lib (name "TL3305AF260QG")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/TL3305AF260QG/TL3305AF260QG.lib")(options "")(descr ""))
+  (lib (name "button_no_01x02")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/spst_button/button_no_01x02.lib")(options "")(descr ""))
 )
