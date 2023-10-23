@@ -147,7 +147,7 @@
 
   (footprint "DMN3731U-7:SOT96P240X110-3N" (layer "F.Cu")
     (tstamp 07869098-b011-4053-b43a-0cea7937db85)
-    (at 183.865 35.1 -90)
+    (at 184.49 24.15 -90)
     (descr "Package Type: SOT23")
     (tags "MOSFET (N-Channel)")
     (property "Arrow Part Number" "")
@@ -314,7 +314,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-92_Inline" (layer "F.Cu")
     (tstamp 0c8cad7c-0e52-4d1c-86e1-5ee25c58174b)
-    (at 176.46 26.51)
+    (at 191.09 42.95)
     (descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (property "Field2" "")
@@ -371,7 +371,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 11b8045e-c417-4cfa-8ff5-d9f8864b028a)
-    (at 177.6675 33.45)
+    (at 178.2925 22.5)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Manufacturer_Part_Number" "XL-1608VRC-06")
@@ -430,7 +430,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 13a82f7d-6aff-4e50-a0a1-25b0a54ad4f2)
-    (at 197.13 42.95)
+    (at 197.43 41.15)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "v0_2.kicad_sch")
@@ -461,7 +461,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 16c0bb39-d0fc-4638-ac4a-99f2725627a6)
-    (at 197.03 36.25)
+    (at 197.33 34.45)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Field2" "")
@@ -628,7 +628,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 1dd197f4-a923-4dc3-b3ba-2400c5b82c7d)
-    (at 176.35 49.135)
+    (at 175.23 34.55)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer_Part_Number" "0603WAF1002T5E")
@@ -745,7 +745,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 275c8b9b-c593-4d4d-a483-185e688942d7)
-    (at 181.33 43.45 180)
+    (at 180.855 32.15 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer_Part_Number" "0603WAF1203T5E")
@@ -855,7 +855,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 3221726d-1790-4948-bf52-8079e72f6968)
-    (at 187.255 46.38)
+    (at 187.955 33.85)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer_Part_Number" "0603WAF1001T5E")
@@ -1036,7 +1036,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 3fd5fd25-d5de-4626-8159-7b2b469071e5)
-    (at 196.93 38.65)
+    (at 197.23 36.85)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "v0_2.kicad_sch")
@@ -1098,7 +1098,7 @@
 
   (footprint "AP2138N-3.3TRG1:SOT95P282X145-3N" (layer "F.Cu")
     (tstamp 43b9a74e-9ac2-4ede-b905-09deab6431de)
-    (at 183.905 40.25 180)
+    (at 184.53 29.3 180)
     (descr "SOT-23-3_4")
     (tags "Integrated Circuit")
     (property "Arrow Part Number" "AP2138N-3.3TRG1")
@@ -1224,7 +1224,7 @@
 
   (footprint "DMG2301L-7:SOT96P240X110-3N" (layer "F.Cu")
     (tstamp 44d0c507-8fa8-488d-b9ce-e96d15fbacd4)
-    (at 188.105 32.85)
+    (at 188.73 21.9)
     (descr "SOT23_-")
     (tags "MOSFET (P-Channel)")
     (property "Arrow Part Number" "DMG2301L-7")
@@ -1423,7 +1423,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 4e399e9e-d5dd-423f-9bca-e2cb7ebfbc19)
-    (at 187.005 38.025 90)
+    (at 187.63 27.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacture" "CL10A105KO8NNNC")
@@ -1478,7 +1478,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 4f61112f-0582-436b-8117-060e6ef2efe0)
-    (at 180.205 36.45 180)
+    (at 180.83 25.5 180)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacture" "CL10A105KO8NNNC")
@@ -1592,7 +1592,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 53fea87f-352c-4aa2-801d-13d46b1f1286)
-    (at 182.555 49.3 180)
+    (at 182.305 36.35 180)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacture" "CL10A105KO8NNNC")
@@ -1647,7 +1647,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 56aced91-8492-455a-908a-15d8f02df487)
-    (at 174.38 33.45)
+    (at 175.005 22.5)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer_Part_Number" "0603WAF1001T5E")
@@ -1702,7 +1702,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
     (tstamp 5c0847eb-4182-4f9d-8bfc-7d2f87046ad2)
-    (at 188.03 49.825 -90)
+    (at 187.83 36.375 -90)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "BH1750FVI.kicad_sch")
@@ -1767,7 +1767,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 758935c1-46da-465d-8b16-c17b0a3224aa)
-    (at 177.6175 31.35)
+    (at 178.2425 20.4)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Manufacturer_Part_Number" "SML-E12V8WT86")
@@ -2020,7 +2020,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 8d20ebf2-1b78-4a62-af01-30ca73436b65)
-    (at 174.33 31.35)
+    (at 174.955 20.4)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer_Part_Number" "0603WAF1001T5E")
@@ -2075,7 +2075,7 @@
 
   (footprint "TS-1101-C-W:TS1101CW" (layer "F.Cu")
     (tstamp 8d926e79-d5ed-4325-b97d-b3fa11e2beb4)
-    (at 193.03 34.3 -90)
+    (at 193.73 27.15 -90)
     (descr "TS-1101-C-W-1")
     (tags "Switch")
     (property "Arrow Part Number" "")
@@ -2340,7 +2340,7 @@
 
   (footprint "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" (layer "F.Cu")
     (tstamp 952283aa-cd9a-4ecc-abed-5188a2197be2)
-    (at 197.53 31.18)
+    (at 192.63 11.7)
     (descr "Through hole straight pin header, 1x02, 1.27mm pitch, single row")
     (tags "Through hole pin header THT 1x02 1.27mm single row")
     (property "Sheetfile" "AP2138N-3.3TRG1.kicad_sch")
@@ -2580,7 +2580,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp a746cff2-707a-4d70-8d68-83ada69b34bf)
-    (at 182.68 30.05 180)
+    (at 183.305 19.1 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Field2" "")
@@ -2636,7 +2636,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp aa4a169e-2f1a-44ab-bc49-ccf6ca4f115d)
-    (at 180.27 34.75)
+    (at 180.895 23.8)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer_Part_Number" "0603WAF1203T5E")
@@ -2691,7 +2691,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp aee90f25-49f6-4c1f-b3b0-06477449bbfe)
-    (at 176.305 50.85)
+    (at 175.185 36.265)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer_Part_Number" "0603WAF1002T5E")
@@ -2746,7 +2746,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp b9696ebf-1f75-4149-b59b-02f7a617edb7)
-    (at 178.68 46.5)
+    (at 178.455 34.35)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer_Part_Number" "0603WAF1002T5E")
@@ -2997,7 +2997,7 @@
 
   (footprint "TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm" (layer "F.Cu")
     (tstamp c609823f-5a06-42c0-91f6-0261f95cbc32)
-    (at 187.725 9.44 180)
+    (at 175.83 45.85)
     (descr "Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf")
     (tags "Altech AK300 terminal block pitch 5.0mm")
     (property "Field2" "")
@@ -3265,11 +3265,11 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 1ce2bb6a-7846-4934-b956-bb05ff8f5a9a))
     (fp_arc (start 11.59 -5.06) (mid 11.768693 -4.568754) (end 11.545619 -4.096005)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 3356a2b7-4848-41bd-918f-2ac5e8755b72))
-    (pad "1" thru_hole rect (at 0 0 180) (size 1.98 3.96) (drill 1.32) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole rect (at 0 0) (size 1.98 3.96) (drill 1.32) (layers "*.Cu" "*.Mask")
       (net 25 "+3.3V") (pinfunction "Pin_1") (pintype "passive") (tstamp 19ac19c6-423e-46fa-ac46-5c1e4eca8942))
-    (pad "2" thru_hole oval (at 5 0 180) (size 1.98 3.96) (drill 1.32) (layers "*.Cu" "*.Mask")
+    (pad "2" thru_hole oval (at 5 0) (size 1.98 3.96) (drill 1.32) (layers "*.Cu" "*.Mask")
       (net 65 "/DQ") (pinfunction "Pin_2") (pintype "passive") (tstamp 02fa4dd8-6a30-466e-a68a-3cb32742a03c))
-    (pad "3" thru_hole oval (at 10 0 180) (size 1.98 3.96) (drill 1.32) (layers "*.Cu" "*.Mask")
+    (pad "3" thru_hole oval (at 10 0) (size 1.98 3.96) (drill 1.32) (layers "*.Cu" "*.Mask")
       (net 30 "GND") (pinfunction "Pin_3") (pintype "passive") (tstamp 34ea888b-dd24-4dd3-8d8d-8f27f709d28c))
     (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-3_P5.00mm.wrl"
       (offset (xyz 0 0 0))
@@ -3361,7 +3361,7 @@
 
   (footprint "S2B-PH-SM4-TB(LF)(SN):S2BPHSM4TBLFSN" (layer "F.Cu")
     (tstamp d436a528-d9c1-4a1c-becd-80b6c28b11bb)
-    (at 193.53 21.65)
+    (at 184.78 8.05)
     (descr "S2B-PH-SM4-TB(LF)(SN)-2")
     (tags "Connector")
     (property "Arrow Part Number" "S2B-PH-SM4-TB(LF)(SN)")
@@ -3440,7 +3440,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp d646c295-cf5b-49e5-9694-b1871af03adb)
-    (at 197.03 40.95)
+    (at 197.33 39.15)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "v0_2.kicad_sch")
@@ -3595,7 +3595,7 @@
 
   (footprint "BH1750:WSOF6" (layer "F.Cu")
     (tstamp f3e84c4e-4b88-4a4e-962c-898fe8232dcc)
-    (at 182.335 46.98)
+    (at 182.085 34.03)
     (descr "WSOF6")
     (tags "Integrated Circuit")
     (property "Arrow Part Number" "BH1750FVI-TR")
@@ -3713,7 +3713,7 @@
 
   (footprint "DMG2301L-7:SOT96P240X110-3N" (layer "F.Cu")
     (tstamp fd43ee11-d2e7-4f2e-9930-c34e5f3237bd)
-    (at 179.795 39.1 180)
+    (at 180.42 28.15 180)
     (descr "SOT23_-")
     (tags "MOSFET (P-Channel)")
     (property "Arrow Part Number" "DMG2301L-7")
@@ -3828,85 +3828,85 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp 35941589-f019-4a51-891f-2bf740946024))
   (gr_rect (start 107.58 -0.8) (end 199.08 56.1)
     (stroke (width 0.1) (type default)) (fill none) (layer "User.1") (tstamp f69131b5-4a95-4061-a3dd-b7f30357f85d))
-  (gr_text "GP22\n" (at 165.93 32.25) (layer "F.SilkS") (tstamp 15d40b44-2ddb-41a4-82f9-4b041a2f276b)
+  (gr_text "GP22\n" (at 165.772261 32.25) (layer "F.SilkS") (tstamp 15d40b44-2ddb-41a4-82f9-4b041a2f276b)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "RUN" (at 165.83 29.85) (layer "F.SilkS") (tstamp 16089a4a-5dae-4179-8a5e-2daf12175968)
+  (gr_text "RUN" (at 165.772261 29.85) (layer "F.SilkS") (tstamp 16089a4a-5dae-4179-8a5e-2daf12175968)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "Battery" (at 186.43 23.75) (layer "F.SilkS") (tstamp 1e307cd2-c83e-46ac-8425-4ff16593fe44)
+  (gr_text "Battery" (at 182.63 16.75) (layer "F.SilkS") (tstamp 1e307cd2-c83e-46ac-8425-4ff16593fe44)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom))
   )
-  (gr_text "GND" (at 135.93 47.45) (layer "F.SilkS" knockout) (tstamp 23c00be6-b19c-4763-8830-950bb174d987)
+  (gr_text "GND" (at 135.770176 47.45) (layer "F.SilkS" knockout) (tstamp 23c00be6-b19c-4763-8830-950bb174d987)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
   )
-  (gr_text "GP14\nGP15" (at 134.83 52.75) (layer "F.SilkS") (tstamp 4320ba33-dda9-49a5-b3c0-b0edab03bae0)
+  (gr_text "GP14\nGP15" (at 134.690714 52.75) (layer "F.SilkS") (tstamp 4320ba33-dda9-49a5-b3c0-b0edab03bae0)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GND" (at 166.23 9.65) (layer "F.SilkS" knockout) (tstamp 46d5f8a0-2a26-476a-b19f-f70ada96015f)
+  (gr_text "GND" (at 166.267797 9.65) (layer "F.SilkS" knockout) (tstamp 46d5f8a0-2a26-476a-b19f-f70ada96015f)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
   )
-  (gr_text "3V3_EN\n3V3_OUT" (at 165.93 14.95) (layer "F.SilkS") (tstamp 52cf3093-62e7-49ef-9f89-bc72bce12945)
+  (gr_text "3V3_EN\n3V3_OUT" (at 165.772261 14.95) (layer "F.SilkS") (tstamp 52cf3093-62e7-49ef-9f89-bc72bce12945)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "ADC_VREF" (at 165.83 17.25) (layer "F.SilkS") (tstamp 55c6cf88-7360-4379-bb7f-98d71877e83f)
+  (gr_text "ADC_VREF" (at 165.772261 17.25) (layer "F.SilkS") (tstamp 55c6cf88-7360-4379-bb7f-98d71877e83f)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GP6\nGP7\nGP8\nGP9" (at 135.93 31.95) (layer "F.SilkS") (tstamp 63d64e0b-6234-40f7-abf7-9f9f4af46ac2)
+  (gr_text "GP6\nGP7\nGP8\nGP9" (at 135.851425 31.95) (layer "F.SilkS") (tstamp 63d64e0b-6234-40f7-abf7-9f9f4af46ac2)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GP0\nGP1" (at 136.23 7.05) (layer "F.SilkS") (tstamp 67419d17-2d78-4e78-8c41-614a4b519250)
+  (gr_text "GP0\nGP1" (at 135.94071 7.05) (layer "F.SilkS") (tstamp 67419d17-2d78-4e78-8c41-614a4b519250)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GND" (at 136.03 22.25) (layer "F.SilkS" knockout) (tstamp 6a3e0b4f-979a-4bb8-995b-231abdae9d5e)
+  (gr_text "GND" (at 135.859461 22.25) (layer "F.SilkS" knockout) (tstamp 6a3e0b4f-979a-4bb8-995b-231abdae9d5e)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
   )
-  (gr_text "GP2\nGP3\nGP4\nGP5" (at 136.03 19.25) (layer "F.SilkS") (tstamp 6e095540-ad32-430f-ad9b-d3e669e5ba1f)
+  (gr_text "GP2\nGP3\nGP4\nGP5" (at 136.029995 19.25) (layer "F.SilkS") (tstamp 6e095540-ad32-430f-ad9b-d3e669e5ba1f)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GP21\nGP20\nGP19\nGP18" (at 165.83 45.05) (layer "F.SilkS") (tstamp 75377a7e-176f-40c9-9f02-abe2344d6190)
+  (gr_text "GP21\nGP20\nGP19\nGP18" (at 165.772261 45.05) (layer "F.SilkS") (tstamp 75377a7e-176f-40c9-9f02-abe2344d6190)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GND" (at 166.13 47.55) (layer "F.SilkS" knockout) (tstamp 8138089b-bf33-4389-8f50-89e29711f82e)
+  (gr_text "GND" (at 166.267797 47.55) (layer "F.SilkS" knockout) (tstamp 8138089b-bf33-4389-8f50-89e29711f82e)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
   )
-  (gr_text "GND" (at 136.03 34.95) (layer "F.SilkS" knockout) (tstamp 8161f52d-e3ea-45df-a5c5-08aeab5dddf6)
+  (gr_text "GND" (at 135.591606 34.95) (layer "F.SilkS" knockout) (tstamp 8161f52d-e3ea-45df-a5c5-08aeab5dddf6)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
   )
-  (gr_text "GP17\nGP16" (at 165.93 52.65) (layer "F.SilkS") (tstamp 8dd24947-1df5-4508-aa0a-d5e94ff76c88)
+  (gr_text "GP17\nGP16" (at 165.772261 52.65) (layer "F.SilkS") (tstamp 8dd24947-1df5-4508-aa0a-d5e94ff76c88)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GP28" (at 165.93 19.65) (layer "F.SilkS") (tstamp 946b4242-b7fc-44ed-b251-70262d0dc80f)
+  (gr_text "GP28" (at 165.772261 19.65) (layer "F.SilkS") (tstamp 946b4242-b7fc-44ed-b251-70262d0dc80f)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
   (gr_text "SDcard" (at 111.53 31.86) (layer "F.SilkS") (tstamp 98c472e1-cfa8-4875-90b0-2614ac9f7d9b)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom))
   )
-  (gr_text "VBUS\nVSYS" (at 166.03 7.05) (layer "F.SilkS") (tstamp a336db0e-0b7d-4118-8e87-4a33cab4d8bf)
+  (gr_text "VBUS\nVSYS" (at 165.772261 7.05) (layer "F.SilkS") (tstamp a336db0e-0b7d-4118-8e87-4a33cab4d8bf)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GP10\nGP11\nGP12\nGP13" (at 134.73 44.65) (layer "F.SilkS") (tstamp a8852abb-9958-497c-8416-197a232e41a5)
+  (gr_text "GP10\nGP11\nGP12\nGP13" (at 134.601429 44.65) (layer "F.SilkS") (tstamp a8852abb-9958-497c-8416-197a232e41a5)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "RESET" (at 190.33 41.05) (layer "F.SilkS") (tstamp b42c6398-6568-4326-98d7-b0b2f3f6d184)
+  (gr_text "RESET" (at 191.23 34.05) (layer "F.SilkS") (tstamp b42c6398-6568-4326-98d7-b0b2f3f6d184)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom))
   )
-  (gr_text "GP27	\nGP26" (at 166.03 27.35) (layer "F.SilkS") (tstamp b807fa60-9f2d-4c51-925d-cf57e92ee548)
+  (gr_text "GP27	\nGP26" (at 165.772261 27.35) (layer "F.SilkS") (tstamp b807fa60-9f2d-4c51-925d-cf57e92ee548)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GND" (at 166.23 22.35) (layer "F.SilkS" knockout) (tstamp bee72484-846e-47af-9878-35aeac39ef2c)
+  (gr_text "GND" (at 166.267797 22.35) (layer "F.SilkS" knockout) (tstamp bee72484-846e-47af-9878-35aeac39ef2c)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
   )
-  (gr_text "Color \n" (at 184.33 50.45) (layer "F.SilkS") (tstamp bf590e7e-aca7-4702-a3a2-59ba28623821)
+  (gr_text "Color \n" (at 184.955 39.5) (layer "F.SilkS") (tstamp bf590e7e-aca7-4702-a3a2-59ba28623821)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom))
   )
   (gr_text "Record" (at 123.63 30.15) (layer "F.SilkS") (tstamp c4264bc4-056e-4991-834c-f98aef75a725)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "GND" (at 135.93 9.35) (layer "F.SilkS" knockout) (tstamp f534a6d1-f8f0-4e5e-9184-8f148ae8595d)
+  (gr_text "GND" (at 135.680891 9.35) (layer "F.SilkS" knockout) (tstamp f534a6d1-f8f0-4e5e-9184-8f148ae8595d)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
   )
-  (gr_text "GND" (at 166.13 34.85) (layer "F.SilkS" knockout) (tstamp fb38e690-9970-4fe0-9145-e3d6e71f59de)
+  (gr_text "GND" (at 166.267797 34.85) (layer "F.SilkS" knockout) (tstamp fb38e690-9970-4fe0-9145-e3d6e71f59de)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
   )
   (dimension (type aligned) (layer "F.Cu") (tstamp 0955faaa-0ecd-4346-8a8d-88d64da9c1c3)
@@ -3928,4 +3928,34 @@
     (style (thickness 0.2) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
 
+  (group "" (id 7cf54f4c-8888-4b96-87a6-77a7fab5dd60)
+    (members
+      23c00be6-b19c-4763-8830-950bb174d987
+      4320ba33-dda9-49a5-b3c0-b0edab03bae0
+      63d64e0b-6234-40f7-abf7-9f9f4af46ac2
+      67419d17-2d78-4e78-8c41-614a4b519250
+      6a3e0b4f-979a-4bb8-995b-231abdae9d5e
+      6e095540-ad32-430f-ad9b-d3e669e5ba1f
+      8161f52d-e3ea-45df-a5c5-08aeab5dddf6
+      a8852abb-9958-497c-8416-197a232e41a5
+      f534a6d1-f8f0-4e5e-9184-8f148ae8595d
+    )
+  )
+  (group "" (id c2e2fe02-9c61-4ce2-933f-7c8660e3c2bf)
+    (members
+      15d40b44-2ddb-41a4-82f9-4b041a2f276b
+      16089a4a-5dae-4179-8a5e-2daf12175968
+      46d5f8a0-2a26-476a-b19f-f70ada96015f
+      52cf3093-62e7-49ef-9f89-bc72bce12945
+      55c6cf88-7360-4379-bb7f-98d71877e83f
+      75377a7e-176f-40c9-9f02-abe2344d6190
+      8138089b-bf33-4389-8f50-89e29711f82e
+      8dd24947-1df5-4508-aa0a-d5e94ff76c88
+      946b4242-b7fc-44ed-b251-70262d0dc80f
+      a336db0e-0b7d-4118-8e87-4a33cab4d8bf
+      b807fa60-9f2d-4c51-925d-cf57e92ee548
+      bee72484-846e-47af-9878-35aeac39ef2c
+      fb38e690-9970-4fe0-9145-e3d6e71f59de
+    )
+  )
 )
