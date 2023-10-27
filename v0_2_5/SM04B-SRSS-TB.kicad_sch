@@ -261,7 +261,7 @@
     )
     (pin "1" (uuid 9c3cfcab-fefa-4a8b-8a33-9dc4f5040972))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09/3f5ea07a-63b6-48ae-9444-91fc623d4bb7"
           (reference "#PWR031") (unit 1)
         )
@@ -315,7 +315,7 @@
     (pin "MP1" (uuid 180a6e6a-082e-4a38-986a-d8b45b0adfd6))
     (pin "MP2" (uuid d4ddb201-3f9e-46b8-ba9c-ac07808ab3cd))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"
           (reference "J4") (unit 1)
         )
@@ -343,7 +343,7 @@
     )
     (pin "1" (uuid 03cb6cff-f048-4530-afe2-bdac254ad799))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09/3f5ea07a-63b6-48ae-9444-91fc623d4bb7"
           (reference "#PWR019") (unit 1)
         )

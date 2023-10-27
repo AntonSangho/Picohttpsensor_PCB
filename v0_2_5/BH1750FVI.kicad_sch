@@ -497,7 +497,7 @@
     (pin "1" (uuid 29ee9df7-fdf2-45db-a8f2-ad1b0ed871eb))
     (pin "2" (uuid ec85ad01-7d26-441b-b520-4fed62304bae))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09/b4cf97a4-fc8e-43ca-87b5-9f012553953c"
           (reference "JP1") (unit 1)
         )
@@ -526,7 +526,7 @@
     (pin "1" (uuid d94ca68a-1ec0-4c53-8450-7cefc623b876))
     (pin "2" (uuid f5f8d93c-02bc-409a-ac2f-24539b780c0d))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"
           (reference "R7") (unit 1)
         )
@@ -558,7 +558,7 @@
     (pin "1" (uuid 928b1723-9181-4a8c-b34c-7c9a22599080))
     (pin "2" (uuid fab010e3-88ef-46ee-a499-c82cd8dc9b15))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"
           (reference "R3") (unit 1)
         )
@@ -590,7 +590,7 @@
     (pin "1" (uuid 3a52d142-0f8a-4075-932d-4d281dcfacd5))
     (pin "2" (uuid 452bdb53-4505-4dc9-a2a7-ce4522cb86b7))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09/b4cf97a4-fc8e-43ca-87b5-9f012553953c"
           (reference "C6") (unit 1)
         )
@@ -615,7 +615,7 @@
     )
     (pin "1" (uuid 9f6a9416-56a8-459f-9400-f9c9a655575d))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09/b4cf97a4-fc8e-43ca-87b5-9f012553953c"
           (reference "#PWR021") (unit 1)
         )
@@ -669,7 +669,7 @@
     (pin "5" (uuid 8dd50c4c-3312-4c97-9283-dead5963a132))
     (pin "6" (uuid b64753de-2dbc-4c45-938d-a34ba0ac4285))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09/b4cf97a4-fc8e-43ca-87b5-9f012553953c"
           (reference "IC2") (unit 1)
         )
@@ -694,7 +694,7 @@
     )
     (pin "1" (uuid dc4796db-6ac5-4878-9325-f48655ea004c))
     (instances
-      (project "v0_2"
+      (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09/b4cf97a4-fc8e-43ca-87b5-9f012553953c"
           (reference "#PWR020") (unit 1)
         )
