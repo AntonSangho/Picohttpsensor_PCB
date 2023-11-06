@@ -17,4 +17,5 @@
   (lib (name "TL3305AF260QG")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/TL3305AF260QG")(options "")(descr ""))
   (lib (name "Graphics")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/Graphics")(options "")(descr ""))
   (lib (name "SKHUAKE010")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/SKHUAKE010")(options "")(descr ""))
+  (lib (name "TF-115")(type "KiCad")(uri "/home/anton/Projects/KiCadLibraries/TF-115")(options "")(descr ""))
 )

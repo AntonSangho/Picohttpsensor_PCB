@@ -421,7 +421,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 102.87 83.82 180) (unit 1)
-    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d347b8cd-de14-44a8-99c6-91c2cff75106)
     (property "Reference" "J5" (at 102.87 74.93 0)
       (effects (font (size 1.27 1.27)))
@@ -438,9 +438,9 @@
     (property "LCSC Part #" "C5188441" (at 102.87 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f2eb087b-21ef-4a0e-9013-8437bfdf04fb))
-    (pin "2" (uuid 85aac23d-123a-4ea6-81b4-d823e57701aa))
-    (pin "3" (uuid 8c026a6a-8317-4356-98f0-f96275f8587e))
+    (pin "1" (uuid b75003d3-1ffe-4079-9240-6fef85ccdaf6))
+    (pin "2" (uuid 573afb9f-9427-4126-8641-f7435de5f59b))
+    (pin "3" (uuid 4ec1744c-1b90-449d-9678-3347475e731b))
     (instances
       (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09/21f03d30-0ecc-439b-8de2-493752139474"
@@ -451,7 +451,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 134.62 83.82 0) (unit 1)
-    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ffdbbabd-e6d3-4be2-85d6-c447f876b6c7)
     (property "Reference" "TP11" (at 137.16 79.248 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -465,7 +465,7 @@
     (property "Datasheet" "~" (at 139.7 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f0a7eeff-b32d-4829-99e3-e88d8d127209))
+    (pin "1" (uuid f756e708-5693-43cb-bf99-5ddc84b92494))
     (instances
       (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"

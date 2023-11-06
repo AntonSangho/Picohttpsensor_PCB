@@ -1448,7 +1448,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 238.76 96.52 0) (unit 1)
-    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7d4630c0-f6a0-4e91-a1e4-b1ee196d9aa2)
     (property "Reference" "J6" (at 239.395 91.44 0)
       (effects (font (size 1.27 1.27)))
@@ -1462,8 +1462,8 @@
     (property "Datasheet" "~" (at 238.76 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 68a68920-b8db-4a3e-9e69-89a53a12163f))
-    (pin "2" (uuid 219b88f7-c206-4337-b55a-8f90080f9258))
+    (pin "1" (uuid a8cda855-df3d-4f62-b795-2c1dcd009393))
+    (pin "2" (uuid d27eaa8e-e6e9-47a1-8977-07c1f32a9ed8))
     (instances
       (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09/3580e7c3-86d9-4e19-aad4-f7334a732566"

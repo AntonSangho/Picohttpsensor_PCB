@@ -1870,7 +1870,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 78.74 137.16 0) (unit 1)
-    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 152904a6-beb8-41f3-a693-5f13a98e1285)
     (property "Reference" "TP3" (at 81.28 132.588 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1884,7 +1884,7 @@
     (property "Datasheet" "~" (at 83.82 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b05511ce-fed2-4e76-9f60-ed3dabd6bf6d))
+    (pin "1" (uuid fe497e02-665b-4b80-ad0c-3f6f636782c5))
     (instances
       (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"
@@ -2041,7 +2041,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 78.74 128.27 0) (unit 1)
-    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4291f35c-b6ac-4e81-bb1f-dcbae746277c)
     (property "Reference" "TP2" (at 81.28 123.698 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2055,7 +2055,7 @@
     (property "Datasheet" "~" (at 83.82 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 680b74b4-f93b-4843-88ac-e02dc19f8f76))
+    (pin "1" (uuid 0af85f06-dd13-4218-8dd0-1c7e58072147))
     (instances
       (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"
@@ -2308,7 +2308,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 78.74 146.05 0) (unit 1)
-    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9bce8e57-6ae7-4792-b2fe-800db3f23d1e)
     (property "Reference" "TP4" (at 81.28 141.478 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2322,7 +2322,7 @@
     (property "Datasheet" "~" (at 83.82 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6c1d4049-221d-4c86-9fce-3dd20c70399e))
+    (pin "1" (uuid 5b0ccfc0-b1d9-4d16-9572-268926ee582d))
     (instances
       (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"
@@ -2385,7 +2385,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 271.78 73.66 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9ede2a0b-7434-4fa3-a8c0-022bc6e0cda2)
     (property "Reference" "TP11" (at 276.86 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2399,7 +2399,7 @@
     (property "Datasheet" "~" (at 271.78 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fc1472ef-4b5d-4993-9d7d-cf3b76f0211d))
+    (pin "1" (uuid 78cb6fa2-6489-46d4-8606-fe452e886b20))
     (instances
       (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"
@@ -2568,7 +2568,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 78.74 119.38 0) (unit 1)
-    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bd465cd8-4424-41fa-8ebf-e53deeb9199b)
     (property "Reference" "TP1" (at 81.28 114.808 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2582,7 +2582,7 @@
     (property "Datasheet" "~" (at 83.82 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a66c565b-8b51-480d-835c-d6bc960f2641))
+    (pin "1" (uuid f5d7ad90-0096-4e25-90ec-48d3f86700fe))
     (instances
       (project "v0_2_5"
         (path "/678523e5-508b-4706-b0e0-f17e466a8d09"
