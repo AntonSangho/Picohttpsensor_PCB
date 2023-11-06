@@ -1428,6 +1428,9 @@
     (property "Arrow Price/Stock" "https://www.arrow.com/en/products/s2b-ph-sm4-tb-lf-sn/jst-manufacturing?region=europe" (at 224.79 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
+    (property "LCSC" "S2B-PH-SM4-TB" (at 243.84 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 189b56e3-7a3c-40a5-9bd0-6c62409798a6))
     (pin "2" (uuid 6d534bef-58b0-4743-afd6-4432ce081260))
     (pin "MP1" (uuid 58d986c1-9d56-44e6-b46b-6d8aa42f6457))
@@ -1445,7 +1448,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 238.76 96.52 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid 7d4630c0-f6a0-4e91-a1e4-b1ee196d9aa2)
     (property "Reference" "J6" (at 239.395 91.44 0)
       (effects (font (size 1.27 1.27)))

@@ -421,7 +421,7 @@
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x03") (at 102.87 83.82 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid d347b8cd-de14-44a8-99c6-91c2cff75106)
     (property "Reference" "J5" (at 102.87 74.93 0)
       (effects (font (size 1.27 1.27)))
@@ -435,7 +435,7 @@
     (property "Datasheet" "~" (at 102.87 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C5188441" (at 102.87 83.82 0)
+    (property "LCSC Part #" "C5188441" (at 102.87 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f2eb087b-21ef-4a0e-9013-8437bfdf04fb))
@@ -451,7 +451,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 134.62 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid ffdbbabd-e6d3-4be2-85d6-c447f876b6c7)
     (property "Reference" "TP11" (at 137.16 79.248 0)
       (effects (font (size 1.27 1.27)) (justify left))
